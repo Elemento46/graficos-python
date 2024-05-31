@@ -1,0 +1,101 @@
+Id,Descrição,Categoria,Valor,Local,Data da compra
+1,Caneta azul,Material,2.50,Bahia,2024-05-01
+2,Caderno grande,Material,10.00,Bahia,2024-04-10
+3,Maçãs (kg),Alimento,3.20,São Paulo,2024-04-15
+4,Camiseta preta,Vestuário,15.50,Minas Gerais,2024-04-20
+5,Lápis HB,Material,1.00,Bahia,2024-04-25
+6,Leite (1L),Alimento,2.00,Rio de Janeiro,2024-05-01
+7,Caneta vermelha,Material,2.50,Bahia,2024-05-05
+8,Livro de romance,Livro,12.00,São Paulo,2024-05-10
+9,Par de meias,Vestuário,5.00,Espírito Santo,2024-05-15
+10,Chocolate (barra),Alimento,3.50,Rio de Janeiro,2024-05-20
+11,Régua 30cm,Material,1.50,Bahia,2024-05-25
+12,Calça jeans,Vestuário,25.00,Minas Gerais,2024-06-01
+13,Mochila escolar,Material,20.00,São Paulo,2024-06-06
+14,Arroz (kg),Alimento,2.00,São Paulo,2024-06-11
+15,Caneta preta,Material,2.50,Bahia,2024-06-16
+16,Camiseta branca,Vestuário,12.00,Rio de Janeiro,2024-06-21
+17,Pão de forma,Alimento,1.80,Minas Gerais,2024-06-26
+18,Borracha,Material,0.80,Bahia,2024-07-01
+19,Feijão (kg),Alimento,4.00,São Paulo,2024-07-06
+20,Caneta verde,Material,2.50,Bahia,2024-07-11
+21,Camisa xadrez,Vestuário,18.00,Rio de Janeiro,2024-07-16
+22,Caderno pequeno,Material,5.00,Minas Gerais,2024-07-21
+23,Laranjas (kg),Alimento,2.50,Minas Gerais,2024-07-26
+24,Caneta rosa,Material,2.50,Rio de Janeiro,2024-08-01
+25,Meia dúzia de ovos,Alimento,2.00,Espírito Santo,2024-08-06
+26,Livro de ficção científica,Livro,15.00,São Paulo,2024-08-11
+27,Camiseta azul,Vestuário,14.00,Rio de Janeiro,2024-08-16
+28,Mochila de viagem,Material,30.00,Minas Gerais,2024-08-21
+29,Garrafa de água,Alimento,1.50,Espírito Santo,2024-08-26
+30,Tesoura,Material,4.00,Bahia,2024-09-01
+31,Shorts jeans,Vestuário,20.00,Rio de Janeiro,2024-09-06
+32,Lápis de cor,Material,1.50,Minas Gerais,2024-09-11
+33,Café (kg),Alimento,8.00,São Paulo,2024-09-16
+34,Caneta laranja,Material,2.50,Bahia,2024-09-21
+35,Livro de história,Livro,18.00,São Paulo,2024-09-26
+36,Camiseta vermelha,Vestuário,16.00,Rio de Janeiro,2024-10-01
+37,Maçãs (duzia),Alimento,5.00,São Paulo,2024-10-06
+38,Pasta de dente,Higiene,3.00,São Paulo,2024-10-11
+39,Shampoo,Higiene,5.00,São Paulo,2024-10-16
+40,Condicionador,Higiene,6.00,Rio de Janeiro,2024-10-21
+41,Escova de dente,Higiene,2.50,Rio de Janeiro,2024-10-26
+42,Sabonete,Higiene,1.80,Minas Gerais,2024-11-01
+43,Desodorante,Higiene,4.50,Minas Gerais,2024-11-06
+44,Papel higiênico,Higiene,3.20,Espírito Santo,2024-11-11
+45,Sabão em barra,Limpeza,2.00,São Paulo,2024-11-16
+46,Amaciante,Limpeza,4.00,São Paulo,2024-11-21
+47,Detergente,Limpeza,2.50,Rio de Janeiro,2024-11-26
+48,Esponja de aço,Limpeza,1.80,Rio de Janeiro,2024-12-01
+49,Vassoura,Limpeza,8.00,Minas Gerais,2024-12-06
+50,Pano de chão,Limpeza,2.00,Minas Gerais,2024-12-11
+51,Arroz integral,Alimento,2.50,Rio de Janeiro,2024-12-16
+52,Feijão preto,Alimento,3.00,Espírito Santo,2024-12-21
+53,Batata (kg),Alimento,1.80,Espírito Santo,2024-12-26
+54,Cenoura (kg),Alimento,2.00,Minas Gerais,2025-01-01
+55,Abacaxi,Alimento,4.00,Minas Gerais,2025-01-06
+56,Sabão em pó,Limpeza,5.00,Minas Gerais,2025-01-11
+57,Desinfetante,Limpeza,3.50,São Paulo,2025-01-16
+58,Álcool em gel,Limpeza,6.00,São Paulo,2025-01-21
+59,Alface (kg),Alimento,2.50,Rio de Janeiro,2025-01-26
+60,Tomate (kg),Alimento,3.00,Espírito Santo,2025-02-01
+61,Cebola (kg),Alimento,2.00,Espírito Santo,2025-02-06
+62,Rímel,Higiene,8.00,Minas Gerais,2025-02-11
+63,Lápis delineador,Higiene,6.50,Minas Gerais,2025-02-16
+64,Gel de cabelo,Higiene,4.00,Rio de Janeiro,2025-02-21
+65,Condicionador,Higiene,7.00,Rio de Janeiro,2025-02-26
+66,Escova de cabelo,Higiene,3.00,Espírito Santo,2025-03-01
+67,Batom,Higiene,5.00,Espírito Santo,2025-03-06
+68,Esmalte,Higiene,4.50,Minas Gerais,2025-03-11
+69,Creme hidratante,Higiene,10.00,Minas Gerais,2025-03-16
+70,Fio dental,Higiene,2.00,São Paulo,2025-03-21
+71,Adoçante,Alimento,4.50,São Paulo,2025-03-26
+72,Açúcar (kg),Alimento,2.00,Rio de Janeiro,2025-04-01
+73,Chocolate (barra),Alimento,3.50,Rio de Janeiro,2025-04-06
+74,Chiclete,Alimento,1.20,Espírito Santo,2025-04-11
+75,Sal (pacote),Alimento,1.00,Espírito Santo,2025-04-16
+76,Ovos (dúzia),Alimento,3.00,Minas Gerais,2025-04-21
+77,Presunto (kg),Alimento,10.00,Minas Gerais,2025-04-26
+78,Queijo (kg),Alimento,8.00,São Paulo,2025-05-01
+79,Iogurte (unidade),Alimento,2.00,São Paulo,2025-05-06
+80,Sorvete (litro),Alimento,6.00,Rio de Janeiro,2025-05-11
+81,Biscoitos,Alimento,3.00,Rio de Janeiro,2025-05-16
+82,Água de coco,Alimento,2.50,Espírito Santo,2025-05-21
+83,Leite condensado,Alimento,4.00,Espírito Santo,2025-05-26
+84,Leite de coco,Alimento,2.50,Minas Gerais,2025-06-01
+85,Creme de leite,Alimento,3.00,Minas Gerais,2025-06-06
+86,Milho enlatado,Alimento,2.50,São Paulo,2025-06-11
+87,Ervilha enlatada,Alimento,2.00,São Paulo,2025-06-16
+88,Óleo de soja,Alimento,5.00,Rio de Janeiro,2025-06-21
+89,Macarrão (pacote),Alimento,3.00,Rio de Janeiro,2025-06-26
+90,Molho de tomate,Alimento,2.50,Espírito Santo,2025-07-01
+91,Farinha de trigo,Alimento,2.00,Espírito Santo,2025-07-06
+92,Farinha de mandioca,Alimento,3.00,Minas Gerais,2025-07-11
+93,Cerveja (lata),Bebida,2.50,Minas Gerais,2025-07-16
+94,Vinho (garrafa),Bebida,15.00,São Paulo,2025-07-21
+95,Refrigerante (2L),Bebida,3.50,São Paulo,2025-07-26
+96,Suco de laranja (litro),Bebida,5.00,Rio de Janeiro,2025-08-01
+97,Suco de uva (litro),Bebida,4.00,Rio de Janeiro,2025-08-06
+98,Água mineral (garrafa),Bebida,1.50,Espírito Santo,2025-08-11
+99,Chá (caixa),Bebida,3.00,Espírito Santo,2025-08-16
+100,Café solúvel,Bebida,6.00,Minas Gerais,2025-08-21
